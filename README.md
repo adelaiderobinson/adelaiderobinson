@@ -2,7 +2,7 @@
 ### :sunflower: Hello I'm Adelaide! 
 pronouns: (she/her)
 
-:book: I'm Currently a graduate student in the Master of Environmental Data Science Program at University of California Santa Barbara 
+:book: I'm currently a graduate student in the Master of Environmental Data Science Program at University of California Santa Barbara 
 
 :fish: My work experience is primarily in fisheries monitoring and I'm passionate about fish and wildlife conservation 
 ### About Me

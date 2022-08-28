@@ -1,4 +1,15 @@
-### Hi there 👋
+
+### :sunflower: Hello I'm Adelaide! 
+(she/her)
+
+:book: I'm Currently a graduate student in the Master of Environmental Data Science Program at University of California Santa Barbara 
+
+:fish: My work experience is primarily in fisheries monitoring and I'm passionate about fish and wildlife conservation 
+### About Me
+:hiking_boot: I love going on outdoor adventures
+
+:rabbit: Bunny mom 
+
 
 <!--
 **adelaiderobinson/adelaiderobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 
 ### :sunflower: Hello I'm Adelaide! 
-(she/her)
+pronouns: (she/her)
 
 :book: I'm Currently a graduate student in the Master of Environmental Data Science Program at University of California Santa Barbara 
 

@@ -2,10 +2,12 @@
 ### :sunflower: Hello I'm Adelaide! 
 pronouns: (she/her)
 
-:book: I'm currently a graduate student in the Master of Environmental Data Science Program at University of California Santa Barbara 
+:book:  I’m currently a graduate student in the Master of Environmental Data Science (MEDS) Program at UC Santa Barbara within the Bren School of Environmental Science & Management
 
-:fish: My work experience is primarily in fisheries monitoring and I'm passionate about fish and wildlife conservation 
-### About Me
+:fish: My background is in fisheries monitoring and conservation
+
+:snail: My long-term goal is to use data science to protect endangered species and ecosystems 
+### Fun Extras
 :hiking_boot: I love going on outdoor adventures
 
 :rabbit: Bunny mom 

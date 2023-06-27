@@ -2,7 +2,9 @@
 ### :sunflower: Hello I'm Adelaide! 
 pronouns: (she/her)
 
-:book:  I’m currently a graduate student in the Master of Environmental Data Science (MEDS) Program at UC Santa Barbara within the Bren School of Environmental Science & Management
+:book:  Recent graduate of the Master of Environmental Data Science (MEDS) Program at UC Santa Barbara within the Bren School of Environmental Science & Management
+
+🐳 Currently working on the [Ocean Health Index](http://example.com) project for the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/)
 
 :fish: My background is in fisheries monitoring and conservation
 

@@ -12,7 +12,7 @@ pronouns: (she/her)
 ### Fun Extras
 :hiking_boot: I love going on outdoor adventures
 
-:rabbit: Bunny mom 
+:rabbit: 🐶 🐱 🐟 🐸 🕷️ Pet Mom
 
 
 <!--

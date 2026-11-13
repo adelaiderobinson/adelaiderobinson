@@ -4,8 +4,7 @@ pronouns: (she/her)
 
 :book:  Graduate of the Master of Environmental Data Science (MEDS) Program at UC Santa Barbara within the Bren School of Environmental Science & Management
 
-🐳 Recently worked on the [Ocean Health Index](https://www.oceanhealthindex.org/) project for the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/)
-
+🐳 Currently working with [Earth Species Project]([https://earthspecies.org]) to decode whale communication
 :fish: My background is in fisheries monitoring and conservation
 
 :snail: My long-term goal is to use data science to protect endangered species and ecosystems 
